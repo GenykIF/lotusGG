@@ -29,6 +29,7 @@ const (
 )
 
 // Journal event types.
+
 const (
 	evtTypeWdPoStScheduler = iota
 	evtTypeWdPoStProofs
